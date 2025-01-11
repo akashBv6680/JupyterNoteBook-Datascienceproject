@@ -45,7 +45,7 @@
   
 ---------------------------------------------------------------
 
-# Machine Learning Model for Predicting Diabetes Cases 🤖
+# Project 3: Machine Learning Model for Predicting Diabetes Cases 🤖
 # Project Overview 📊
 
 This project aims to develop a machine learning model that can accurately predict diabetes cases based on a comprehensive analysis of multiple risk factors 📈. The model utilizes a comprehensive dataset that provides detailed information on relevant attributes such as age, body mass index (BMI), gender, and blood glucose levels, among other key indicators 📊.
